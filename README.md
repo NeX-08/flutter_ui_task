@@ -11,4 +11,8 @@ Features:
     Setting Screen: Change the Notification
     Profile Screen: View the Profile of a User
 
-Preview of the Project: https://mega.nz/folder/ftA13KDR#vDm-WoCrsKwvqmvUzSgcaA
+Preview of the Project: 
+
+https://mega.nz/folder/ftA13KDR#vDm-WoCrsKwvqmvUzSgcaA
+
+https://drive.google.com/drive/folders/1cKapOzAwTsEl1JgVMcjyiiUrapxLOG0z?usp=sharing
